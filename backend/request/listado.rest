@@ -1,0 +1,2 @@
+# GET http://localhost:3001/api/persons
+ GET https://coursereact-600x.onrender.com/api/persons
